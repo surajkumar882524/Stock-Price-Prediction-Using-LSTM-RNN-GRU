@@ -154,7 +154,8 @@ The models are evaluated using:
 ## Dataset
 
 <img width="1192" height="199" alt="image" src="https://github.com/user-attachments/assets/43bf3fe7-e799-4d6d-9049-bad5f6109924" />
-<img width="1192" height="199" alt="Screenshot 2026-07-30 183639" src="https://github.com/user-attachments/assets/b2be3dcb-ec26-4943-8c9f-2892bba6ba31" />
+<img width="1752" height="702" alt="Screenshot 2026-07-30 182615" src="https://github.com/user-attachments/assets/eb338d66-5cd8-424e-ad26-c81821e15a0a" />
+
 
 
 
