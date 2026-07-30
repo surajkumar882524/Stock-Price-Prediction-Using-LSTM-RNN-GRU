@@ -153,31 +153,28 @@ The models are evaluated using:
 
 ## Dataset
 
-(Add Screenshot Here)
+<img width="1192" height="199" alt="image" src="https://github.com/user-attachments/assets/43bf3fe7-e799-4d6d-9049-bad5f6109924" />
+<img width="1192" height="199" alt="Screenshot 2026-07-30 183639" src="https://github.com/user-attachments/assets/b2be3dcb-ec26-4943-8c9f-2892bba6ba31" />
+
+
 
 ---
 
-## Data Preprocessing
-
-(Add Screenshot Here)
-
----
 
 ## Model Training
 
-(Add Screenshot Here)
+<img width="685" height="754" alt="Screenshot 2026-07-30 183742" src="https://github.com/user-attachments/assets/8bc21dfd-f553-4a4a-acbe-33e72ce67d21" />
+<img width="699" height="781" alt="Screenshot 2026-07-30 183827" src="https://github.com/user-attachments/assets/621a8714-5de8-4608-8bb7-5c91a75b8d6d" />
+<img width="632" height="749" alt="Screenshot 2026-07-30 183848" src="https://github.com/user-attachments/assets/8cc96686-14e0-405e-9bd0-d765da1de4dd" />
+
+
+
 
 ---
 
 ## Prediction Graph
+<img width="994" height="528" alt="output" src="https://github.com/user-attachments/assets/222b5cb9-959d-4789-b852-86b7bab9f5bc" />
 
-(Add Screenshot Here)
-
----
-
-## Actual vs Predicted Prices
-
-(Add Screenshot Here)
 
 ---
 
